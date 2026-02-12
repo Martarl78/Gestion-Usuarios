@@ -1,4 +1,4 @@
-package moduloviajes;
+package git;
 
 public class Viaje {
 
