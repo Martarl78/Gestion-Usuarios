@@ -2,7 +2,7 @@ package git;
 
 import java.util.Scanner;
 
-public class PrincipalViajes {
+public class Main {
 
 	    private static final int MAX_VIAJES = 5;
 	    private static Viaje[] viajes = new Viaje[MAX_VIAJES];
